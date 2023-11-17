@@ -6,5 +6,5 @@ category.get('/:id',GetOnes);
 category.post('/',CatPost);
 category.put('/:id',UPdate);
 category.delete('/:id',Deletes)
-
+////second
  module.exports=category;
